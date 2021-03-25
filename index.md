@@ -23,7 +23,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/1.png
   - type: blog_feed_section
     title: Changelogs
     show_recent: true
