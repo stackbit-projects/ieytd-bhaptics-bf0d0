@@ -4,25 +4,6 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-header:
-  title: Starter
-  has_nav: true
-  nav_links:
-    - label: Features
-      url: /features
-      style: link
-    - label: Blog
-      url: /blog
-      style: link
-    - label: About
-      url: /about
-      style: link
-    - label: Style Guide
-      url: /style-guide
-      style: link
-    - label: Contact Us
-      url: /contact
-      style: primary
 footer:
   has_nav: true
   nav_links:
